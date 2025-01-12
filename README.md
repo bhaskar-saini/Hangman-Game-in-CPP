@@ -1,4 +1,4 @@
-Hangman-Game-in-CPP
+# Hangman-Game-in-CPP
 
 It is a simple project for learning purpose. What I learn?
 
